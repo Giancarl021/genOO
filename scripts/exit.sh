@@ -1,4 +1,4 @@
-. unalias "compile"
-. unalias "clean"
-. unalias "run"
-. unalias "exit-context"
+unalias "compile"
+unalias "clean"
+unalias "run"
+unalias "exit-context"
